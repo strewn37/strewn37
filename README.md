@@ -13,10 +13,10 @@
 
 Welcome to my GitHub! I'm a Data Engineer with a passion for building **scalable data pipelines**, **automating workflows**, and **optimizing ETL processes**. My expertise lies in:
 
-# 🔹 Data Engineering – Transforming raw data into structured insights using Python, PySpark, and SQL/T-SQL
-# 🔹 Cloud & Big Data – Working with Azure Synapse Analytics,and Azure Data Lake
-# 🔹 ETL & Data Pipelines – Designing efficient ingestion, transformation, and orchestration workflows
-# 🔹 Version Control & DevOps – Managing repositories and CI/CD pipelines in Azure DevOps & Git
+##### 🔹 Data Engineering – Transforming raw data into structured insights using Python, PySpark, and SQL/T-SQL
+##### 🔹 Cloud & Big Data – Working with Azure Synapse Analytics,and Azure Data Lake
+##### 🔹 ETL & Data Pipelines – Designing efficient ingestion, transformation, and orchestration workflows
+##### 🔹 Version Control & DevOps – Managing repositories and CI/CD pipelines in Azure DevOps & Git
 
 I believe in collaborative problem-solving and continuously improving data processes to drive innovation. Feel free to explore my repositories, and let’s connect! 😊
 
